@@ -1,1 +1,1 @@
-# sample
+# Playing with Git and Java
